@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\bin\Debug\net6.0\Example004_Dif.exe
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\bin\Debug\net6.0\Example004_Dif.deps.json
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\bin\Debug\net6.0\Example004_Dif.runtimeconfig.json
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\bin\Debug\net6.0\Example004_Dif.dll
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\bin\Debug\net6.0\Example004_Dif.pdb
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.dll
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\refint\Example004_Dif.dll
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.pdb
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\Example004_Dif.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Examples\Example004_Dif\obj\Debug\net6.0\ref\Example004_Dif.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\bin\Debug\net6.0\Example005_Condition.exe
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\bin\Debug\net6.0\Example005_Condition.deps.json
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\bin\Debug\net6.0\Example005_Condition.runtimeconfig.json
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\bin\Debug\net6.0\Example005_Condition.dll
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\bin\Debug\net6.0\Example005_Condition.pdb
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.dll
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\refint\Example005_Condition.dll
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.pdb
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\Example005_Condition.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Examples\Example005_Condition\obj\Debug\net6.0\ref\Example005_Condition.dll
